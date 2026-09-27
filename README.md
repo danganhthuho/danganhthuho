@@ -1,6 +1,6 @@
 # Chrissy Ho
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=F778BA&width=520&lines=hi%2C+i'm+chrissy;computer+engineering+%40+SJSU;backends%2C+full-stack+%2B+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="hi, i'm chrissy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=58A6FF&width=520&lines=hi%2C+i'm+chrissy;computer+engineering+%40+SJSU;backends%2C+full-stack+%2B+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="hi, i'm chrissy" />
 
 I study computer engineering at **SJSU**, after De Anza College. I mostly build backends, full-stack apps and ML projects, and I've interned as a software engineer in Vietnam and Texas.
 
@@ -33,10 +33,6 @@ Eating, mostly. I'm always looking for the next good place to eat, so send recom
 <tr><td><b>cloud & tools</b></td><td>AWS, Docker, Git, CI/CD, Firebase, Vercel, Figma</td></tr>
 <tr><td><b>data & ML</b></td><td>PostgreSQL, MySQL, MongoDB, Redis, scikit-learn, pandas, LightGBM</td></tr>
 </table>
-
-#### 🏆 awards
-
-🥇 1st Prize, ACPC 2026 (UC Davis) · 🥇 1st Place, DAHacks 4.0 · 🎈 Top 30+, ICPC PacNW Regional · 📚 Dean's List, De Anza 2023–2026 · 🎓 De Anza Scholarship 2024–2026
 
 #### 🐍 my contributions, eaten
 
