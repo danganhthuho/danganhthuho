@@ -12,7 +12,7 @@
 
 ### about me
 
-Computer Engineering at **San José State University** ('28), by way of De Anza College. I like building things end to end, from the backend to what people actually click on.
+Computer Engineering at **San José State University** ('28). I like building things end to end, from the backend to what people actually click on.
 
 - ⚡ realtime & distributed backends
 - 🌐 full-stack web apps
