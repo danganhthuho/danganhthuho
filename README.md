@@ -41,26 +41,6 @@ const struct engineer chrissy = {
 
 <sub>Plus OpenGL, pandas, RStudio, LightGBM and Oracle.</sub>
 
-### ~/experience
-
-**Luraco Health and Beauty**, Software Engineer Intern<br>
-<sub>Arlington, Texas · June – September 2026</sub>
-- Built full-stack e-commerce infrastructure for online sales, order processing, supply-chain management and fulfillment
-- Built real-time warehouse dashboards and inventory workflows that **improved fulfillment efficiency by 12%**
-- Connected sales, warehouse and fulfillment systems with support ticketing and internal service workflows over APIs
-
-**Gosu Corp**, Software Engineer Intern<br>
-<sub>Huế, Vietnam · May – August 2025</sub>
-- Developed multiplayer backend services over WebSockets, TCP/UDP and REST, **cutting response latency by 27%**
-- Built scalable player, combat, chat and guild services with Redis caching, SQL and message queues
-- Hardened production with database tuning, caching, load balancing and monitoring, **reducing backend failures by 20%**
-
-**Brycen Vietnam**, Software Engineer Intern<br>
-<sub>Huế, Vietnam · April – September 2024</sub>
-- Built enterprise backend services in Java and Spring with REST APIs and SQL for warehouse management
-- Developed Angular/React + TypeScript apps on Oracle/MySQL for inventory, barcode processing, sales and fulfillment
-- Built a LightGBM pipeline that forecasts pricing trends for a Japanese client, **improving prediction accuracy by 18%**
-
 ### ~/projects
 
 <!-- tip: turn each project title into a link to its repo or demo -->
