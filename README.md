@@ -1,7 +1,7 @@
 <h1 align="center">Chrissy Ho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=8B949E&center=true&vCenter=true&width=620&lines=computer+engineering+%40+SJSU;realtime+backends%2C+full-stack%2C+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="computer engineering @ SJSU" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=8B949E&center=true&vCenter=true&width=620&lines=Computer+Engineering+%40+SJSU;realtime+backends%2C+full-stack%2C+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="computer engineering @ SJSU" />
 </p>
 
 <p align="center">
