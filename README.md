@@ -10,7 +10,7 @@
 
 ---
 
-### // brief
+### about me
 
 Computer Engineering at **San José State University** ('28), by way of De Anza College. I like building things end to end, from the backend to what people actually click on.
 
@@ -21,7 +21,7 @@ Computer Engineering at **San José State University** ('28), by way of De Anza 
 
 ---
 
-### // cp & hackathons
+### cp & hackathons
 
 **ICPC PacNW regionalist · ACPC 2026 winner · DAHacks 4.0 winner**
 
@@ -29,7 +29,7 @@ Contests keep my algorithms sharp. Hackathons are where I get to take a wild ide
 
 ---
 
-### // toolbox
+### toolbox
 
 **Languages:** `Python` `Java` `C` `C++` `C#` `Go` `TypeScript` `JavaScript` `Dart` `R` `SQL`<br>
 **Frameworks:** `React` `Next.js` `Node.js` `Django` `Flask` `Spring` `Angular` `Flutter` `GraphQL`<br>
@@ -38,7 +38,7 @@ Contests keep my algorithms sharp. Hackathons are where I get to take a wild ide
 
 ---
 
-### // off the clock
+### off the clock
 
 - 🍜 eating, and always looking for the next good place to eat
 
