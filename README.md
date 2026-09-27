@@ -1,40 +1,50 @@
-# Chrissy Ho
+<h1 align="center">Chrissy Ho</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=58A6FF&width=520&lines=hi%2C+i'm+chrissy;computer+engineering+%40+SJSU;backends%2C+full-stack+%2B+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="hi, i'm chrissy" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1400&color=8B949E&center=true&vCenter=true&width=620&lines=computer+engineering+%40+SJSU;realtime+backends%2C+full-stack%2C+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="computer engineering @ SJSU" />
+</p>
 
-I study computer engineering at **SJSU**, after De Anza College. I mostly build backends, full-stack apps and ML projects, and I've interned as a software engineer in Vietnam and Texas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thuho05/">LinkedIn</a> · <a href="mailto:danganhthuho@gmail.com">Email</a>
+</p>
 
-📫 [linkedin](https://www.linkedin.com/in/thuho05/) · [email](mailto:danganhthuho@gmail.com)
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### // brief
 
-#### 🏁 cp & hackathons
+Computer Engineering at **San José State University** ('28), by way of De Anza College. I like building things end to end, from the backend to what people actually click on.
 
-I compete in **ICPC** and **ACPC**, and I'm always up for a hackathon: a short deadline, a big idea, and something working by the end.
+- ⚡ realtime & distributed backends
+- 🌐 full-stack web apps
+- 🧠 ML pipelines & AI-powered apps
+- 🔌 embedded systems & digital design
 
-</td>
-<td width="50%" valign="top">
+---
 
-#### 🍜 off the clock
+### // cp & hackathons
 
-Eating, mostly. I'm always looking for the next good place to eat, so send recommendations.
+**ICPC PacNW regionalist · ACPC 2026 winner · DAHacks 4.0 winner**
 
-</td>
-</tr>
-</table>
+Contests keep my algorithms sharp. Hackathons are where I get to take a wild idea and turn it into something that works before the clock runs out.
 
-#### 🧰 toolbox
+---
 
-<table>
-<tr><td><b>languages</b></td><td>Python, Java, C, C++, C#, Go, TypeScript, JavaScript, Dart, R, SQL</td></tr>
-<tr><td><b>frameworks</b></td><td>React, Next.js, Node.js, Django, Flask, Spring, Angular, Flutter, GraphQL</td></tr>
-<tr><td><b>cloud & tools</b></td><td>AWS, Docker, Git, CI/CD, Firebase, Vercel, Figma</td></tr>
-<tr><td><b>data & ML</b></td><td>PostgreSQL, MySQL, MongoDB, Redis, scikit-learn, pandas, LightGBM</td></tr>
-</table>
+### // toolbox
 
-#### 🐍 my contributions, eaten
+**Languages:** `Python` `Java` `C` `C++` `C#` `Go` `TypeScript` `JavaScript` `Dart` `R` `SQL`<br>
+**Frameworks:** `React` `Next.js` `Node.js` `Django` `Flask` `Spring` `Angular` `Flutter` `GraphQL`<br>
+**Cloud & tools:** `AWS` `Docker` `Git` `CI/CD` `Firebase` `Vercel` `Figma`<br>
+**Data & ML:** `PostgreSQL` `MySQL` `MongoDB` `Redis` `scikit-learn` `pandas` `LightGBM`
+
+---
+
+### // off the clock
+
+- 🍜 eating, and always looking for the next good place to eat
+
+> will debug for food.
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-dark.svg" />
