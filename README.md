@@ -1,6 +1,7 @@
 # Chrissy Ho
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=58A6FF&width=520&lines=hi%2C+i'm+chrissy;computer+engineering+%40+SJSU;backends%2C+full-stack+%2B+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="hi, i'm chrissy" />
+
 I study computer engineering at **SJSU**, after De Anza College. I mostly build backends, full-stack apps and ML projects, and I've interned as a software engineer in Vietnam and Texas.
 
 📫 [linkedin](https://www.linkedin.com/in/thuho05/) · [email](mailto:danganhthuho@gmail.com)
