@@ -1,90 +1,47 @@
-<!-- github.com/danganhthuho · the two images in assets/ are hand-made animated SVGs -->
+# Chrissy Ho
 
-<div align="center">
-  <img src="assets/header.svg" width="100%" alt="Chrissy Ho, Computer Engineering at SJSU. A circuit board powers on, signals pulse into a chip printed with her name, and a small terminal types out highlights." />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&color=F778BA&width=520&lines=hi%2C+i'm+chrissy;computer+engineering+%40+SJSU;backends%2C+full-stack+%2B+ML;1st+place+%40+ACPC+2026;will+code+for+food" alt="hi, i'm chrissy" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thuho05/"><img src="https://img.shields.io/badge/LinkedIn-thuho05-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d2f24" alt="LinkedIn: thuho05" /></a>
-  <a href="mailto:danganhthuho@gmail.com"><img src="https://img.shields.io/badge/Email-danganhthuho%40gmail.com-b8862b?style=flat-square&logo=gmail&logoColor=white&labelColor=0d2f24" alt="Email: danganhthuho@gmail.com" /></a>
-</p>
+I study computer engineering at **SJSU**, after De Anza College. I mostly build backends, full-stack apps and ML projects, and I've interned as a software engineer in Vietnam and Texas.
 
-### ~/about
+📫 [linkedin](https://www.linkedin.com/in/thuho05/) · [email](mailto:danganhthuho@gmail.com)
 
-I'm Chrissy, a Computer Engineering student at San José State University (class of 2028), by way of De Anza College. I've interned as a software engineer in Huế, Vietnam and Arlington, Texas, and I compete in programming contests.
-
-```c
-const struct engineer chrissy = {
-    .builds     = { "realtime multiplayer backends",
-                    "e-commerce + inventory systems",
-                    "ML forecasting pipelines",
-                    "AI-powered iOS & web apps" },
-    .coursework = { "Data Structures & Algorithms", "Embedded Systems",
-                    "Digital System Design", "Machine Learning Fundamentals",
-                    "Object-Oriented Programming", "Software Design & Development" },
-};
-```
-
-### ~/stack
-
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,go,ts,js,dart,swift,r,html,css&perline=13" alt="Python, Java, C, C++, C#, Go, TypeScript, JavaScript, Dart, Swift, R, HTML, CSS" />
-
-<b>Frameworks & libraries</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,spring,angular,flutter,graphql,jquery,materialui,bootstrap&perline=13" alt="React, Next.js, Node.js, Django, Flask, Spring, Angular, Flutter, GraphQL, jQuery, Material UI, Bootstrap" />
-
-<b>Cloud & tools</b><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,firebase,vercel,androidstudio,figma,processing&perline=13" alt="AWS, Docker, GitHub Actions, Git, Firebase, Vercel, Android Studio, Figma, Processing" />
-
-<b>Data & ML</b><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sklearn&perline=13" alt="PostgreSQL, MySQL, MongoDB, Redis, scikit-learn" />
-
-<sub>Plus OpenGL, pandas, RStudio, LightGBM and Oracle.</sub>
-
-### ~/projects
-
-<!-- tip: turn each project title into a link to its repo or demo -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**👻 GhostCam**
+#### 🏁 cp & hackathons
 
-A privacy-focused iOS camera that detects and redacts sensitive content with GPT-4o Vision and VisionKit. It remembers trusted faces with SwiftData and monitors privacy through the Instagram Graph API.
-
-`Swift` `VisionKit` `GPT-4o Vision` `SwiftData`
+I compete in **ICPC** and **ACPC**, and I'm always up for a hackathon: a short deadline, a big idea, and something working by the end.
 
 </td>
 <td width="50%" valign="top">
 
-**🖍️ I Don't Want an iPad Baby**
+#### 🍜 off the clock
 
-A React/Next.js drawing assistant. It transcribes voice with Deepgram, analyzes sketches with multimodal AI, and gives personalized learning feedback with Groq.
-
-`Next.js` `React` `Deepgram` `Groq`
+Eating, mostly. I'm always looking for the next good place to eat, so send recommendations.
 
 </td>
 </tr>
 </table>
 
-### ~/awards
+#### 🧰 toolbox
 
-- 🥇 **1st Prize**, ACPC 2026 at UC Davis
-- 🥇 **1st Place**, DAHacks 4.0
-- 🎈 **Top 30+**, ICPC Pacific Northwest Regional
-- 📚 **Dean's List**, De Anza College, 2023 – 2026
-- 🎓 **Scholarship recipient**, De Anza College, 2024 – 2026
-- 🏛️ **Chair of SRE**, De Anza Student Government, 2026
+<table>
+<tr><td><b>languages</b></td><td>Python, Java, C, C++, C#, Go, TypeScript, JavaScript, Dart, R, SQL</td></tr>
+<tr><td><b>frameworks</b></td><td>React, Next.js, Node.js, Django, Flask, Spring, Angular, Flutter, GraphQL</td></tr>
+<tr><td><b>cloud & tools</b></td><td>AWS, Docker, Git, CI/CD, Firebase, Vercel, Figma</td></tr>
+<tr><td><b>data & ML</b></td><td>PostgreSQL, MySQL, MongoDB, Redis, scikit-learn, pandas, LightGBM</td></tr>
+</table>
 
-<br>
+#### 🏆 awards
 
-<!-- the snake is generated daily by .github/workflows/snake.yml -->
+🥇 1st Prize, ACPC 2026 (UC Davis) · 🥇 1st Place, DAHacks 4.0 · 🎈 Top 30+, ICPC PacNW Regional · 📚 Dean's List, De Anza 2023–2026 · 🎓 De Anza Scholarship 2024–2026
+
+#### 🐍 my contributions, eaten
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-light.svg" />
-  <img alt="A snake eating Chrissy's GitHub contribution graph" src="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-light.svg" width="100%" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-light.svg" />
 </picture>
-
-<br><br>
-
-<a href="mailto:danganhthuho@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something together: danganhthuho@gmail.com" /></a>
