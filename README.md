@@ -43,7 +43,7 @@ Contests keep my algorithms sharp. Hackathons are where I get to take a wild ide
 - 🍜 eating, and always looking for the next good place to eat
 
 > will debug for food.
-
+<!---
 ---
 
 <picture>
@@ -51,3 +51,4 @@ Contests keep my algorithms sharp. Hackathons are where I get to take a wild ide
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-light.svg" />
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-light.svg" />
 </picture>
+--->
