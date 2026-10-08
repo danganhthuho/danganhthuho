@@ -8,12 +8,10 @@
   <a href="https://www.linkedin.com/in/thuho05/">LinkedIn</a> · <a href="mailto:danganhthuho@gmail.com">Email</a>
 </p>
 
----
 ## off the clock
 
 - 🍜 eating, and always looking for the next good place to eat
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danganhthuho/danganhthuho/output/snake-dark.svg" />
