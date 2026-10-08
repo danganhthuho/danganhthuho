@@ -9,13 +9,7 @@
 </p>
 
 ---
-
-### about me
-
-Computer Engineering at **San José State University** ('28)
----
-
-### off the clock
+## off the clock
 
 - 🍜 eating, and always looking for the next good place to eat
 
